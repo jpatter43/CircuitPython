@@ -141,9 +141,12 @@ while True: #void loop
         print("Retrying!")
     time.sleep(0.1)
 ```
+Code Credit: [Grant Gastinger](github.com/ggastin30)
 
 ### Evidence
 https://user-images.githubusercontent.com/91094422/193284908-be352a88-619a-47df-9850-289edfa8f144.mp4
+
+Video Credit: [Grant Gastinger](github.com/ggastin30)
 
 ### Wiring
 ![eLIAS3](https://user-images.githubusercontent.com/91094422/193285420-b9590fd5-7f85-4ac5-8543-de44b9a417bd.png)
